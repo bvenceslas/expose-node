@@ -18,7 +18,6 @@ While developping with Visual Studio Code, the standard pluggins are usefuls suc
 - **Live Share**
 
 ## Git
-
 Here are some useful Git pluggins:
 
 - **Git Blame**
@@ -40,9 +39,30 @@ For **Javascript, and Reactjs, Express, Nodejs, Typescript, ...** Development, h
 - **Live Server**
 
 ## Flutter
-
 For **Flutter** Development, here are some helpful pluggins
 
 - **Flutter**
 - **Flutter Widget Snippets**
 - **Dart**
+
+**============================================================================**
+
+## Getting Started
+
+The project is public
+
+## Author
+
+👤 Venceslas Burongu
+
+- Github: @bvenceslas [@bvenceslas](https://github.com/bvenceslas)
+- Twitter: [@bvenceslas](https://twitter.com/bvenceslas)
+- Linkedin: [Venceslas Burongu](https://www.linkedin.com/in/venceslas-burongu-8271b519a/)
+
+## 🤝Contributing
+
+Contributions, issues and feature requests are welcome!!!
+
+## Show your support
+
+Give a ⭐️ if you like this project!

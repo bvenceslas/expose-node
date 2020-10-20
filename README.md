@@ -45,7 +45,7 @@ For **Flutter** Development, here are some helpful pluggins
 - **Flutter Widget Snippets**
 - **Dart**
 
-**============================================================================**
+**==========================================================================**
 
 ## Getting Started
 

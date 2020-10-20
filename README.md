@@ -2,6 +2,12 @@
 Necessary Pluggins for Visual Studio
 
 Most time, as developer when using Visual Studio, some pluggins are importants to make easy the work.
+Getting them we just need to go to extension menu, and write in the search bar the name of the pluggin and then clic to install
+
+![github-extension-menu](https://user-images.githubusercontent.com/59555731/96562381-006c0780-12c1-11eb-9f3a-18d8a01f6461.png)
+
+![github-pluggin-install](https://user-images.githubusercontent.com/59555731/96562528-298c9800-12c1-11eb-8ccf-ba1be590b1f9.png)
+
 
 ## Visual Studio
 

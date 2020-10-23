@@ -1,8 +1,10 @@
-# VsPluggin
-Necessary Pluggins for Visual Studio
+# VsCode Extensions
 
-Most time, as developer when using Visual Studio, some pluggins are importants to make easy the work.
-Getting them we just need to go to extension menu, and write in the search bar the name of the pluggin and then clic to install
+**Visual Studio Code** is a text editor which was developed by Microsoft Corporation in order to run in both *Windows, Linux, and macOS*. It includes support for debugging, embedded Git control and GitHub, syntax highlighting, intelligent code completion, snippets, and code refactoring.
+The features that Visual Studio Code includes out-of-the-box are just the start. 
+
+VS Code extensions let you add languages, debuggers, and tools to your installation to support your development workflow. VS Code’s rich extensibility model lets extension authors plug directly into the VS Code UI and contribute functionality through the same APIs used by VS Code.
+
 
 ![github-extension-menu](https://user-images.githubusercontent.com/59555731/96562381-006c0780-12c1-11eb-9f3a-18d8a01f6461.png)
 

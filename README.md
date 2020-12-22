@@ -153,6 +153,11 @@ For **Flutter** Development, here are some helpful pluggins
 
 Database management done right. Connection explorer, query runner, intellisense, bookmarks, query history. Feel like a database hero!
 
+## GraphQL
+
+- **GraphQL for VSCode**
+
+
 **==========================================================================**
 
 ## Getting Started

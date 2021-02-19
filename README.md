@@ -35,6 +35,8 @@ Visual Studio Code plugin that autocompletes filenames.
 this extension provides AI-assisted development features for Python, TypeScript/JavaScript and Java developers in Visual Studio Code, with insights based on understanding your code context combined with machine learning.
 
 
+- **Coverage Cutters**
+
 - **Andromeda**
 
 - **Material Theme Icons**

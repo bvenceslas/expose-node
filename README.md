@@ -140,6 +140,8 @@ It helps to find and fix problems in your JavaScript code.
 
 - **Mongo snippets**
 
+- **Tabnine Autocomplete AI** powerful Artificial Intelligence assistant designed to help you code faster, reduce mistakes, and discover best coding practices - without ever leaving the comfort of VSCode.​
+
 ## Flutter
 For **Flutter** Development, here are some helpful pluggins
 

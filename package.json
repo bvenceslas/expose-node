@@ -1,0 +1,18 @@
+{
+  "name": "expose-node",
+  "version": "1.0.0",
+  "description": "how you can export your local port on internet to share the preview of your local work",
+  "main": "index.js",
+  "repository": "https://github.com/bvenceslas/expose-node.git",
+  "author": "bvenceslas <bvenceslas@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "morgan": "^1.10.0",
+    "nodemon": "^3.1.0"
+  }
+}
